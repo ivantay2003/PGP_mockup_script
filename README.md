@@ -1,4 +1,4 @@
-This is a mock up script of parent gateway mobile app (iOS and Android)
+This is a mock up script of Parents Gateway mobile app (iOS and Android) using appium / java
 <br>
 <br>
 There is no verification for any result - just run through menu and layouts
