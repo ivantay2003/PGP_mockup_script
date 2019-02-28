@@ -1,4 +1,4 @@
-This is a mock up script of parent gateway 
+This is a mock up script of parent gateway mobile app (iOS and Android)
 <br>
 <br>
 There is no verification for any result - just run through menu and layouts
