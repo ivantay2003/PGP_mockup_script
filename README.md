@@ -3,7 +3,7 @@ This is a mock up script of parent gateway mobile app (iOS and Android)
 <br>
 There is no verification for any result - just run through menu and layouts
 <br><br>
-#Navigating Parent Gateway
+Navigating Parent Gateway
 <br><br><br>
 
 1. Navigate at bottom menu - HOME / TO-DO /  CHILDREN / PROFILE and back to HOME
