@@ -4,7 +4,7 @@ This is a mock up script of parent gateway
 There is no verification for any result - just run through menu and layouts
 <br>
 Navigating Parent Gateway
-<br>
+<br><br><br>
 1. Navigate at bottom menu - HOME / TO-DO /  CHILDREN / PROFILE and back to HOME
 <br>
 2. Find how many messages at Group message
